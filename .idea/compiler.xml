@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="easy-gen-code-spring-boot-starter" />
+        <module name="j-club-auth-api" />
+        <module name="j-club-infra" />
+        <module name="j-club-common" />
+        <module name="j-club-application-controller" />
+        <module name="j-club-auth-application-controller" />
+        <module name="j-club-wx" />
+        <module name="j-club-application-job" />
+        <module name="j-club-auth-domain" />
+        <module name="j-club-gateway" />
+        <module name="j-club-auth-starter" />
+        <module name="j-club-subject-api" />
+        <module name="j-club-auth-infra" />
+        <module name="j-club-starter" />
+        <module name="j-club-domain" />
+        <module name="j-club-auth-common" />
+        <module name="j-club-application-mq" />
+        <module name="j-club-oss" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="easy-gen-code-spring-boot-starter" target="8" />
+      <module name="j-club-application" target="1.5" />
+      <module name="j-club-application-controller" target="1.8" />
+      <module name="j-club-application-job" target="1.8" />
+      <module name="j-club-application-mq" target="1.8" />
+      <module name="j-club-auth" target="8" />
+      <module name="j-club-auth-api" target="8" />
+      <module name="j-club-auth-application" target="8" />
+      <module name="j-club-auth-application-controller" target="8" />
+      <module name="j-club-auth-common" target="8" />
+      <module name="j-club-auth-domain" target="8" />
+      <module name="j-club-auth-infra" target="8" />
+      <module name="j-club-auth-starter" target="8" />
+      <module name="j-club-common" target="1.8" />
+      <module name="j-club-common-starter" target="8" />
+      <module name="j-club-domain" target="8" />
+      <module name="j-club-gateway" target="8" />
+      <module name="j-club-infra" target="1.8" />
+      <module name="j-club-oss" target="8" />
+      <module name="j-club-starter" target="8" />
+      <module name="j-club-subject" target="1.5" />
+      <module name="j-club-subject-api" target="1.5" />
+      <module name="j-club-wx" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
