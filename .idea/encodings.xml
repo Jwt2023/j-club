@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/j-club-auth/j-club-auth-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-auth/j-club-auth-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-oss/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-subject/j-club-application/j-club-application-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-subject/j-club-application/j-club-application-controller/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-subject/j-club-application/j-club-application-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-subject/j-club-application/j-club-application-mq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-subject/j-club-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-subject/j-club-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-subject/j-club-infra/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-subject/j-club-infra/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-subject/j-club-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-subject/j-club-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-wx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j-club-wx/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

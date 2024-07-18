@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/j-club-subject/pom.xml" />
+        <option value="$PROJECT_DIR$/j-club-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/j-club-common-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/j-club-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/j-club-oss/pom.xml" />
+        <option value="$PROJECT_DIR$/j-club-wx/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/j-club-subject/j-club-application-controller/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
